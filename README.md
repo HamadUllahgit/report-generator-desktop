@@ -244,7 +244,7 @@ ReportApp/
 I'm Hamad, a Microsoft 365 & Power Platform consultant. This project showcases my ability to build desktop solutions that integrate with the Microsoft Office ecosystem.
 
 - 🌐 [hamad365.com](https://hamad365.com)
-- 💼 [Upwork](https://www.upwork.com/freelancers/~yourprofile)
+- 💼 [Upwork](https://www.upwork.com/freelancers/~01f28bdcd32df9fe01)
 - 📧 h@hamad365.com
 
 ---
